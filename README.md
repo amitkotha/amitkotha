@@ -29,6 +29,19 @@ I’m Amit Kotha, a senior full-stack engineer, who loves to learn new things. I
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
+<br>
+<br>
+
+## 📚 What I'm Learning
+
+Here are some things on my todo list.
+
+- _React ⚙️
+- _Jenkins⚙️
+- _Kubernetes_ ⚙️
+- _Blender⚙️
+
+
 ## 📣 How about an Office quote before you go?
 
 >Once every hour, someone is involved in an internet scam. That man is Michael Scott..
